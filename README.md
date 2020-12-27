@@ -5,7 +5,9 @@ Na nośnik pamięci, który ma być zamknięty w walizce, musisz zgrać dwa plik
 - `M.O.L.O.C.H.exe`
 - `cipher` albo `set_password.exe`
 
-Jeśli zgrasz plik `cipher`, to hasłem do konta **rudy102** w programie `M.O.L.O.C.H.exe` będzie `humanismachine`. Z drugiej strony, zgranie i wykonanie programu `set_password.exe` pozwala na ustawienie własnego hasła do programu `M.O.L.O.C.H.exe`. W obu przypadkach hasło jest zapisane w pliku `cipher`, zakodowane przy użyciu szyfru ROT13. Rozszyfrowanie zawartości pliku z hasłem nie jest jednak główną metodą odgadnięcia hasła - jest nią kartka z liczbami wskazującymi na strony, wiersze i słowa w książce która jest zamknięta wraz z nośnikiem pamięci w tytułowej walizce. Reszta szczegółów opisana jest w rozdziale **Rekwizyty** w treści przygody.
+Jeśli zgrasz plik `cipher`, to hasłem do konta **rudy102** w programie `M.O.L.O.C.H.exe` będzie `humanismachine`. Z drugiej strony, zgranie i wykonanie programu `set_password.exe` pozwala na ustawienie własnego hasła do programu `M.O.L.O.C.H.exe` (po ustawieniu hasła program należy oczywiście skasować). W obu przypadkach hasło jest zapisane w pliku `cipher`, zakodowane przy użyciu szyfru ROT13. Rozszyfrowanie zawartości pliku z hasłem nie jest jednak główną metodą odgadnięcia hasła - jest nią kartka z liczbami wskazującymi na strony, wiersze i słowa w książce która jest zamknięta wraz z nośnikiem pamięci w tytułowej walizce. Reszta szczegółów opisana jest w rozdziale **Rekwizyty** w treści przygody.
+
+Wersje z rozszeżeniem `.py` pozwalają odtworzyć programy na innych systemach operacyjnych niż Windows - polecam jednak w takim wypadku dokładnie sprawdzić czy i jak działają.
 
 # Jak ściągnąć pliki z repozytorium
 Aby ściągnąć wszystkie pliki z repozytorium, należy kliknąć na zielony przycisk **Code**, a następnie **Download ZIP**. Poniższe zdjęcie pokazuje ten proces:

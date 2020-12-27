@@ -33,7 +33,7 @@ time.sleep(1)
 input("Press Enter to continue...")
 
 login = None
-true_login = 'rudy102'
+true_login = codecs.encode('ehql102')
 login_list = [true_login.lower(), true_login.upper(), ''.join(true_login.split(' ')), true_login]
 
 login = input('\nLogin: ')
@@ -100,7 +100,7 @@ time.sleep(3)
 
 while True:
     time.sleep(0.5)
-    print('\n\n\tALL\n')
+    print('\n\npy\tALL\n')
     time.sleep(0.2)
     print('\tSYSTEMS\n')
     time.sleep(0.2)
